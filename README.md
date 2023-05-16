@@ -10,7 +10,6 @@
 
 - [Who is Paul Lopez?](#who-is-paul-lopez)
 - [Directory](#directory)
-- [Sponsor](#sponsor)
 - [License](#license)
 
 ## Who is Paul Lopez?
@@ -28,7 +27,7 @@ I have a Bachelor Degree in Computer Science, I've been a Magento Developer for 
 | Module Repository | Name | Description
 | ---------- | ----------- | -----------
 | [lopezpaul/magento2-module-customer-registration](https://github.com/lopezpaul/magento2-module-customer-registration) | **LopezPaul_CustomerRegistration** | Code challenge that modifies customer registration flow.
-
+| [lopezpaul/magento2-concentrix-codechallenge](https://github.com/lopezpaul/magento2-concentrix-codechallenge) | **Concentrix_CodeChallenge** | Code challenge that is a publicly exposed CRUD by REST API.
 
 ## License
 

@@ -1,16 +1,19 @@
 <h1 align="center">lopezpaul/magento2-modules</h1> 
-
 <div align="center">
   <p>A list of all Paul Lopez modules available for Magento 2.</p>
-  <img src="https://img.shields.io/badge/magento-2-brightgreen.svg?logo=magento&longCache=true&style=flat-square" alt="Supported Magento Versions" />
+  <img src="https://img.shields.io/badge/magento-2.4-brightgreen.svg?logo=magento&longCache=true&style=flat-square" alt="Supported Magento Versions" />
   <a href="https://opensource.org/licenses/MIT" target="_blank"><img src="https://img.shields.io/badge/license-MIT-blue.svg" /></a>
 </div>
+
+--- 
 
 ## Table of contents
 
 - [Who is Paul Lopez?](#who-is-paul-lopez)
-- [Directory](#directory)
+- [Directory of Code Challenges](#directory-of-code-challenges)
 - [License](#license)
+
+--- 
 
 ## Who is Paul Lopez?
 
@@ -22,12 +25,18 @@ I have a Bachelor Degree in Computer Science, I've been a Magento Developer for 
 
 [Take a look to my Creedly Profile](https://www.credly.com/users/paul-lopez.8683b64a)
 
-## Directory
+--- 
 
-| Module Repository | Name | Description
-| ---------- | ----------- | -----------
-| [lopezpaul/magento2-module-customer-registration](https://github.com/lopezpaul/magento2-module-customer-registration) | **LopezPaul_CustomerRegistration** | Code challenge that modifies customer registration flow.
-| [lopezpaul/magento2-concentrix-codechallenge](https://github.com/lopezpaul/magento2-concentrix-codechallenge) | **Concentrix_CodeChallenge** | Code challenge that is a publicly exposed CRUD by REST API.
+## Directory of Code Challenges
+
+| Module | Description
+| ---------- | ----------- 
+| [LopezPaul_CustomerRegistration](https://github.com/lopezpaul/magento2-module-customer-registration) | Modifies customer registration flow.
+| [Concentrix_CodeChallenge](https://github.com/lopezpaul/magento2-concentrix-codechallenge) | CRUD exposed via API.
+| [LopezPaul_Blog](https://github.com/lopezpaul/magento2-module-blog) | Posts Admin Grid for blog.
+
+
+--- 
 
 ## License
 

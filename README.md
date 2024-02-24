@@ -17,7 +17,7 @@
 
 ## Who is Paul Lopez?
 
-I have a Bachelor Degree in Computer Science, I've been a Magento Developer for over 3 years and a web developer for over 15. I am a bilingual (Spanish and English) software developer with professional experience in the Americas, specializing in Magento (Adobe Commerce), Laravel, Code Igniter, PHP, FullStack and BackEnd development, with a range of certifications in Adobe and Magento products, and an award for winning a Startup Innovation Award. I have experience in both onsite and remote development with agile methodologies.
+I have a Bachelor Degree in Computer Science, I've been a Magento Developer for over 4 years and a web developer for over 15. I am a bilingual (Spanish and English) software developer with professional experience in the Americas, specializing in Magento (Adobe Commerce), Laravel, Code Igniter, PHP, FullStack and BackEnd development, with a range of certifications in Adobe and Magento products, and an award for winning a Startup Innovation Award. I have experience in both onsite and remote development with agile methodologies.
 
 1. [Adobe Certified Professional—Adobe Commerce Developer](https://www.credly.com/badges/5ea98ff8-b061-4d6c-9f3f-4562ec3c9119)
 2. [Adobe Certified Expert-Adobe Commerce Front-End Developer](https://www.credly.com/badges/7c270113-0743-4db1-a69e-53df785f6cc2)
